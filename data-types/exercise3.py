@@ -5,5 +5,6 @@ pets = {
     'Neptune': 'fish',
     'Darwin': 'lizard',
 }
-print(pets)
+print(pets['Asta'])
+
 
