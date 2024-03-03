@@ -13,3 +13,5 @@ print(all(remainders_5(numbers_1)))
 print(all(remainders_5(numbers_2)))
 print(all(remainders_5(numbers_3)))
 print(all(remainders_5(numbers_4)))
+
+# The any function returns True if any element in a collection is truthy, False if all of the elements are falsy. On the other hand, all returns True if all of the elements are truthy, False otherwise.
